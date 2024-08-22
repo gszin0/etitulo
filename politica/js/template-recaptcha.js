@@ -1,0 +1,3 @@
+requirejs([
+    "app/recaptcha.min"
+]);
